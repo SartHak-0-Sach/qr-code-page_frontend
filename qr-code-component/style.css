@@ -1,73 +1,49 @@
-* {
-    margin: 0;
-    padding: 0;
-    background-color: white;
+*  {
+    box-sizing: border-box;
 }
 
-#cover {
+body {
+    margin: 0;
     background-color: hsl(212, 45%, 89%);
-    width: 80%;
-    height: 80vh;
     display: flex;
+    flex-direction: column;
+    min-height: 100vh;
     justify-content: center;
     align-items: center;
-    margin: auto;
-    margin-top: 80px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    ;
+    font-family: 'Outfit', sans-serif;
 }
 
-@media (max-width: 1440px) {
-    * {
-        background-color: hsl(212, 45%, 89%);
-    }
-
-    #cover {
-        box-shadow: none;
-    }
-}
-
-#qr-box {
-    background-color: white;
+main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 20%;
     text-align: center;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    ;
+    max-width: 20.31em;
+    max-height: 32.81em;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1em;
 }
 
-.qr-code {
-    margin: 20px;
-    width: 80%;
-    border-radius: 5px;
+img {
+    max-width: 17.1875em;
+    max-height: 17.1875em;
+    border-radius: 1em;
+    margin-top: 1.5em;
 }
 
-#qr-box p {
-    margin: 5px 20px;
+section {
+    margin: 1.5em;
 }
 
-#qr-box .heading {
-    font-size: 15px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-style: bold;
+h1 {
+    color:hsl(218, 44%, 22%);
 }
 
-#qr-box .info {
-    font-size: 5px;
+p {
     color: hsl(220, 15%, 55%);
 }
 
-.attribution {
-    font-size: 11px;
-    text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
+footer {
+    margin: 1em 0;
 }
