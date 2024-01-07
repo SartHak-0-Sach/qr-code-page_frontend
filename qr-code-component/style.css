@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(207, 163, 106);
+}
+
+.cover{
+    color: hsl(220, 15%, 55%);
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qr-box{
+    color: white;
+}
+
+.qr-code{
+    margin: 10px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
