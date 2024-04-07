@@ -1,10 +1,12 @@
-# Frontend Mentor - QR code component solution
+# QR Code Page
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+## Welcome! 👋
 
 ## Table of contents
-## Overview
+
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [How to setup the project](#how-to-setup-the-project)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -15,54 +17,66 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-The QRCode component is my first challenge. In this challenge I have used basic HTML and CSS to complete this challenge. I stumbled on to FrontEnd Mentor looking through the web for an online code editor and found a site that gives people projects to do. I have used some simple flexbox and css styling for creating this component. 
+### The challenge
+
+The challenge is to create a simple QR Code Page dedicated to flashing the QR code for easy access to my website. Users should be able to view a centralized responsive container showcasing the QR code wide and clear, along with guidance text below for instructions on how to use it.
+
+### How to setup the project
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository using GitHub Desktop or Git Bash:
+    ```bash
+    git clone https://github.com/SartHak-0-Sach/qr-code-page_frontend.git
+    ```
+2. Open the project folder in your code editor.
+3. Run the project using a live server extension or deploy it using Netlify, Vercel, or another web hosting and deployment service.
 
 ### Screenshot
 
-![qr-code](./qr-code.png)
+![Screenshot](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [QRCode Component Solution](https://github.com/cloudpc7/QRCode.git)
-- Live Site URL: [QRCode Component](https://cloudpc7.github.io/QRCode/)
+- Solution URL: [GitHub Repository](https://github.com/SartHak-0-Sach/qr-code-page_frontend)
+- Live Site URL: [Live Site](https://qr-page-frontend.netlify.app/)
 
 ## My process
 
-Create HTML file with basic html markup.
-Added link to css file.
-Styled HTML components wth external css styel sheet. 
-Used FlexBox 
-
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- HTML5
+- CSS3
+- JavaScript
 
 ### What I learned
 
-I learned more about creating this README fiel and using simple Markup language. I also learned more about using git and gihub. To practice and keep my learning and coding consistent is a better choice to become more of a pro everyday. 
+- Highlight key learnings from the project
 
 ### Continued development
 
-I believe I need to focus more in my css and using less code in order to complete a project. I kept on going back and forth between certain styles and asking myself if this would be a correct style. I ended up making it better once I have it down. I also need to try and develop my skills with mobile css
+- Outline areas for future development or learning
 
 ### Useful resources
 
-- [FrontEndMentor](https://frontendmentor.io) - This helped me for to start my journey and complete projects. I enjoy frontend development and will keep on committing to my projects
-.
-- [CodeCademy.com](https://codecademy.com) - Codecademy.com is a great place to start learning about web development and I learned alot about html, css, javascript, and REACT.
+- List helpful resources used in the project
 
 ## Author
 
-- Website - [Paul Cloud](https://github.com/cloudpc7/)
-- Frontend Mentor - [@cloudpc7](https://www.frontendmentor.io/profile/cloudpc7)
+- Sarthak Sachdev
+- Portfolio Website: [itsmesarthak.netlify.app](https://itsmesarthak.netlify.app/)
+- Twitter: [@sarthak_sach69](https://twitter.com/sarthak_sach69)
 
 ## Acknowledgments
-  I would like to Acknowledge FrontEndMentor and the great reviews that I have found on the internet.
-  Finding this site has inspired me to do more as a front-end developer and to achieve to do more and learn more about the community. 
+
+- Mention any acknowledgments or credits for resources used in the project
+
+## Got feedback for me?
+
+I love receiving feedback! I'm always looking to improve my challenges and my platform. So if you have anything you'd like to mention, please email me at saarsaach[at]gmail[dot]com.
+
+If you found this project helpful, consider sharing it with others to spread the knowledge!
+
+**Happy scanning!** 📱🚀
