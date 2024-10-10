@@ -25,13 +25,14 @@ body {
   padding: 4%;
   top: 25%;
   text-align: center;
+  align-items: center;
   width: 375px;
 }
 
 img {
   border-radius: 15px;
   height: 375px;
-  width: 375px;
+  width: 355px;
 }
 
 h1 {
@@ -53,5 +54,5 @@ p {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
-  text-decoration: none;
+  text-decoration: underlined;
 }
